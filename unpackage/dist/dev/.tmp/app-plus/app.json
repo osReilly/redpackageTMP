@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/HM-chat/HM-chat",
+    "pages/HM-chat/HM-details/HM-details",
+    "pages/HM-chat/HM-hand/HM-hand"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "聊天模板",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {}
+}
